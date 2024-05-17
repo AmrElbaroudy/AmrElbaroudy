@@ -1,6 +1,18 @@
 #AmrElbaroudy
 
-
+<p align="center">
+  <a href= "https://www.linkedin.com/in/amr-elbaroudy-2693a0232/">
+    <img src="https://img.icons8.com/material-outlined/30/689d6a/linkedin.png"/>
+  </a>
+  <a href= "https://x.com/ElbaroudyAmr">
+    <img src="https://img.icons8.com/material-outlined/30/689d6a/twitter.png"/>
+  </a>
+ 
+  <a href="https://wakatime.com/@Amr_Elbaroudy">
+    <img src="https://img.icons8.com/material-outlined/30/689d6a/source-code.png"/>
+  </a>
+  
+</p>
 
 #MY STATS:
 
